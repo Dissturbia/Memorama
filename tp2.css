@@ -1,0 +1,65 @@
+
+
+.main-container {
+  display: flex;
+  background-color: white;
+  justify-content: right;
+  border-radius: 20px;
+
+}
+
+
+.cards-container {
+
+  width: 65%;
+  height: auto;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+  }
+
+
+.cards-container img {
+  width: 160px;
+  height: 160px;
+  margin: 25px;
+  border-radius: 15px;
+}
+
+.jugador {
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  display: flex;
+
+}
+
+
+form {
+  color: #F5B7B1;
+  margin: 20px;
+
+}
+
+
+p {
+  color: #F5B7B1;
+  display: flex;
+  flex-direction: column-reverse;
+  font-size: 30px;
+
+}
+
+
+
+
+}
+
+h2 {
+  color:  #F5B7B1;
+  display: flex;
+  justify-content: center;
+} 
