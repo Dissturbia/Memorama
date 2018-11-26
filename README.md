@@ -1,2 +1,2 @@
 # Memorama
-JUego de memoria con jquery
+Juego de memoria con jquery
